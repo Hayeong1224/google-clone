@@ -25,4 +25,6 @@ h1 span:nth-child(6) {
 }
 .search-bar{
     width: 500px;
+    border-radius: 20px;
+    box-shadow: 0.1px 0.7px 3px 1px #d3d3d3;
 }
